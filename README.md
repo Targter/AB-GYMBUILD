@@ -29,7 +29,7 @@ This responsive website showcases a modern and clean design, powered by React JS
 Get a glimpse of the vibe and energy ⚡
 
 <p align="center">
-  <img src="https://github.com/ondrejvosmera/AB-BUILD/assets/94987136/ab6af339-6feb-41b3-bf23-2ce5a425a150" alt="Homepage Preview" width="90%" />
+  <img src="https://github.com/ondrejvosmera/strike/assets/94987136/ab6af339-6feb-41b3-bf23-2ce5a425a150" alt="Homepage Preview" width="90%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Get a glimpse of the vibe and energy ⚡
 ## 🚀 Getting Started Locally
 
 ```bash
-git clone https://github.com/your-username/AB-BUILD-fitness.git
+git clone https://github.com/Targter/AB-GYMBUILD.git
 cd AB-BUILD-fitness
 npm install
 npm start
