@@ -1,4 +1,4 @@
-# ⚡️ STRIKE FITNESS WEBSITE ⚡️  
+# ⚡️ AB-BUILD FITNESS WEBSITE ⚡️  
 Your Gateway to a Fitter, Stronger You!
 
 🚀 **Live Demo** → [AB-BUILD](https://ab-gymbuild.netlify.app/)  
@@ -7,7 +7,7 @@ Your Gateway to a Fitter, Stronger You!
 ---
 
 ## 🏋️‍♂️ About the Project  
-**Strike Fitness** is a sleek, high-energy fitness website designed to motivate and inspire. Whether you're starting your fitness journey or you're a seasoned athlete, Strike has something for everyone!
+**AB-BUILD Fitness** is a sleek, high-energy fitness website designed to motivate and inspire. Whether you're starting your fitness journey or you're a seasoned athlete, AB-BUILD has something for everyone!
 
 This responsive website showcases a modern and clean design, powered by React JS, and emphasizes user experience and performance. The layout is intuitive and visually compelling, aimed at converting visitors into fitness fanatics. 💪
 
@@ -29,7 +29,7 @@ This responsive website showcases a modern and clean design, powered by React JS
 Get a glimpse of the vibe and energy ⚡
 
 <p align="center">
-  <img src="https://github.com/ondrejvosmera/strike/assets/94987136/ab6af339-6feb-41b3-bf23-2ce5a425a150" alt="Homepage Preview" width="90%" />
+  <img src="https://github.com/ondrejvosmera/AB-BUILD/assets/94987136/ab6af339-6feb-41b3-bf23-2ce5a425a150" alt="Homepage Preview" width="90%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Get a glimpse of the vibe and energy ⚡
 ## 🚀 Getting Started Locally
 
 ```bash
-git clone https://github.com/your-username/strike-fitness.git
-cd strike-fitness
+git clone https://github.com/your-username/AB-BUILD-fitness.git
+cd AB-BUILD-fitness
 npm install
 npm start
