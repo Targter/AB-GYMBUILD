@@ -8,8 +8,8 @@
   top: 0px;
   z-index: 100;
   gap: 100px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 2px;
+  padding-bottom: 4px;
   transition: var(--transition);
   width: 100%;
   max-width: 100%;
