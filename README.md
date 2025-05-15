@@ -26,7 +26,7 @@ This responsive website showcases a modern and clean design, powered by React JS
 ## 🖼️ Preview
 
 ### 🏠 Homepage  
-Get a glimpse of the vibe and energy ⚡
+Get a glimpse of the vibe and energy 
 
 <p align="center">
   <img src="https://github.com/ondrejvosmera/strike/assets/94987136/ab6af339-6feb-41b3-bf23-2ce5a425a150" alt="Homepage Preview" width="90%" />
