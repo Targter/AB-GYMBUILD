@@ -19,7 +19,7 @@ This responsive website showcases a modern and clean design, powered by React JS
 - 🧭 **Smooth Navigation** — Explore workouts with ease  
 - 🏃 **Modern UI/UX** — Built with React and CSS for a clean aesthetic  
 - 🧠 **Intelligent Layout** — Motivational and user-friendly  
-- 🎯 **Focused Design** — Built for fitness enthusiasts & gym lovers  
+- 🎯 **Focused Design** — Built for fitness enthusiasts & gym lovers.......
 
 ---
 
