@@ -1,5 +1,5 @@
 # ⚡️ABBUILD FITNESS WEBSITE⚡️  
-Your Gateway to a Fitter. Stronger You!!!!!
+Your Gateway to a Fitter. Stronger You!!
 
 🚀 **Live Demo** → [AB-BUILD](https://ab-gymbuild.netlify.app/)  
 🛠️ **Built with** → React.js
